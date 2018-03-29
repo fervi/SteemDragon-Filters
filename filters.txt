@@ -3,3 +3,4 @@
 @@steemitimages.com
 @@steemit-production-imageproxy-thumbnail.s3.amazonaws.com
 @@youtube.com
+@@steem.io
