@@ -9,5 +9,8 @@
 ! Steem.io
 @@steem.io
 
+! Steemd
+@@steemd.com
+
 ! Custom websites
 @@youtube.com
