@@ -12,5 +12,10 @@
 ! Steemd
 @@steemd.com
 
+! Busy.org
+@@busy.org
+@@steemconnect.com
+@@alicdn.com
+
 ! Custom websites
 @@youtube.com
