@@ -1,6 +1,13 @@
 ||*
+
+! Steemit
+
 @@steemit.com
 @@steemitimages.com
 @@steemit-production-imageproxy-thumbnail.s3.amazonaws.com
-@@youtube.com
+
+! Steem.io
 @@steem.io
+
+! Custom websites
+@@youtube.com
